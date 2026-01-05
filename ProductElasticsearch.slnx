@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Host/">
+    <Project Path="Host/ProductElasticsearch/ProductElasticsearch.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Catalog/">
+    <Project Path="Modules/Catalog/ProductCatalog.Catalog/ProductCatalog.Catalog.csproj" Id="e4c38b9e-34fb-46e1-b274-4a9cbdac3a11" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="Shared/ProductCatalog.Shared/ProductCatalog.Shared.csproj" Id="3f0b3a98-7e3f-463f-99c2-e7cada3c7427" />
+  </Folder>
+</Solution>
